@@ -1,9 +1,10 @@
 - Hi, there 👋
-- I’m @barbosa-wellington Junior Data/AI engineer working in Australia 🦘.
+
+I’m @barbosa-wellington Junior Data/AI engineer working in Australia 🦘.
   
-- 👀 I’m interested in studying new technologies including Cognitive and Autonomous systems and Computer vision. I am ambitious when I say that I want to learning more about Robotic programming more specific how to implement more complex task to solve small or big issues.
-- 💞️ I’m looking to collaborate on small projects becuase I am looking for learning and improve my habilities.
-- 📫 You can send me a email at wellb.shadow@hotmail.com.
+👀 I’m interested in studying new technologies including Cognitive and Autonomous systems and Computer vision. I am ambitious when I say that I want to learning more about Robotic programming more specific how to implement more complex task to solve small or big issues.
+💞️ I’m looking to collaborate on small projects becuase I am looking for learning and improve my habilities.
+📫 You can send me a email at wellb.shadow@hotmail.com.
 
 RECENTLY
 
